@@ -1,7 +1,7 @@
 #! /usr/bin/python
 def palind():
 
-    print '\n Welcome the the Python Palindrome Prober!\n'
+    print '\n Welcome to the the Python Palindrome Prober!\n'
     print """Please enter the word you would like to check
                               for example: racecar         """
 
