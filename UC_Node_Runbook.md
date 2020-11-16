@@ -4,7 +4,9 @@
 This guide is to be used to incorporate a more streamlined troubleshooting process for the Uptime Connect family of devices and the other services they support onboard a locomotive.
 
 The primary contacts for UC Troubleshooting are below:
+
 Andrew T. Smith ([atsmith@progressrail.com](mailto:atsmith@progressrail.com))
+
 Jeremy Crawford ([jcrawford@progressrail.com](mailto:jcrawford@progressrail.com))
 
 # Materials
