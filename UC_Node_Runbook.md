@@ -33,8 +33,7 @@ Finding the Local-IP will require a person to login to the SDWAN Routing Server 
  3. You should now be at a CLI “`>`” prompt.
  4. Type in _enable_ and type the password _prs_ once prompted.
 
-
-<![if !vml]>![](file:///C:/Users/ballen/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![](file:///sdwan_server.png)
 
 You are now in the SDWAN Routing Server and can start searching for UC Local-IPs.
 
